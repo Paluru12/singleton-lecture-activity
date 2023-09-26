@@ -8,6 +8,7 @@ public class Player {
 
     // TODO: Instance should be named "player"
     private static Player player;
+    
     /*
      * TODO: Constructor for Player
      * @param x x-coordinate of player (default 0.0)
@@ -23,6 +24,7 @@ public class Player {
     private Player() {
         this.Player(0.0, 0.0, 5.0)
     }
+    
     /*
      * TODO: Returns the instance of the player
      * Name: getPlayer()
