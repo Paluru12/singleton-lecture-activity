@@ -22,7 +22,7 @@ public class Player {
     }
 
     private Player() {
-        this.Player(0.0, 0.0, 5.0)
+        this.Player(0.0, 0.0, 5.0);
     }
     
     /*
